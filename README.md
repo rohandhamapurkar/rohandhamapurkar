@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about NodeJS & MongoDB
 - 📫 How to reach me: dhamapurkar54@gmail.com
 - 😄 Pronouns: he/him
-- 🎥 Random Movie Quote: "It is what it is." - The Irishman
+- 🎥 Big movie freak, check out my trakt.tv profile https://trakt.tv/users/rohandhamapurkar/history/movies/added
 
