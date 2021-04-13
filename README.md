@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about NodeJS & MongoDB
 - 📫 How to reach me: dhamapurkar54@gmail.com
 - 😄 Pronouns: he/him
-- 🎥 Big movie freak, check out my trakt.tv profile https://trakt.tv/users/rohandhamapurkar/history/movies/percentage
-
+- 🎥 Big movie freak, check out my trakt.tv profile https://cutt.ly/bveWHgO (list is incomplete, I'm too lazy to update XD)
