@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on developing and maintaining buisness process automation systems
+- 🔭 I’m currently working on developing and maintaining buisness process automation systems in my startup named OrderStack
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on NodeJS projects
 - 🤔 I’m looking for help with NodeJS server framework suggestions
