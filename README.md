@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on NodeJS projects
 - 🤔 I’m looking for help with NodeJS server framework suggestions
 - 💬 Ask me about NodeJS & MongoDB
-- 📫 How to reach me: dhamapurkar54@gmail.com
+- 📫 How to reach me: rohan@orderstack.xyz
 - 😄 Pronouns: he/him
 - 🎥 Big movie freak, check out my trakt.tv profile https://cutt.ly/bveWHgO (list is incomplete, I'm too lazy to update XD)
