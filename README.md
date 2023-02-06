@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rohan@orderstack.xyz
 - 😄 Pronouns: he/him
 - 🎥 Big movie freak, check out my recently watched [trakt.tv](https://trakt.tv/users/rohandhamapurkar/history/movies/added?genres=)
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/rohandhamapurkar/count.svg" />
+</p>
