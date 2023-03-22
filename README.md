@@ -2,15 +2,14 @@
 
 <!--
 **rohandhamapurkar/rohandhamapurkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on developing and maintaining buisness process automation systems in my startup named OrderStack.
-- 🌱 I’m currently working and learning Golang.
-- 👯 I’m looking to collaborate on projects and getting involved in system architecture discussions.
-- 🤔 I’m looking for help with NodeJS server framework suggestions.
-- 💬 We can discuss concepts and interesting things about Go, NodeJS, MongoDB, Sys Arch and Database Design.
-- 📫 How to reach me: rohan@orderstack.xyz
-- 😄 Pronouns: he/him
-- 🎥 Check out what I'm watching [trakt.tv](https://trakt.tv/users/rohandhamapurkar/history/all/added)
+Greetings! I'm Rohan, a passionate developer with a mission to simplify complex business processes. As the founder of OrderStack, I'm dedicated to developing and maintaining innovative automation systems that enable companies to streamline their operations.
+
+Currently, I'm expanding my skills in Golang, and I'm always on the lookout for exciting projects to collaborate on. If you're interested in discussing system architecture or have any NodeJS server framework suggestions, feel free to reach out!
+
+Let's connect and exchange ideas on all things related to Go, NodeJS, MongoDB, System Architecture, and Database Design. You can reach me at rohan@orderstack.xyz, and my preferred pronouns are he/him.
+
+In my free time, I love watching movies and TV shows. If you're curious about what I'm watching, check out my profile on trakt.tv.
+
+Thank you for stopping by, and I look forward to exploring new opportunities with you!
