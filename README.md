@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 We can discuss concepts and interesting things about Go, NodeJS, MongoDB, Sys Arch and Database Design.
 - 📫 How to reach me: rohan@orderstack.xyz
 - 😄 Pronouns: he/him
-- 🎥 Big movie freak, check out my recently watched [trakt.tv](https://trakt.tv/users/rohandhamapurkar/history/movies/added?genres=)
+- 🎥 Check out movies I watched recently [trakt.tv](https://trakt.tv/users/rohandhamapurkar/history/movies/added?genres=)
