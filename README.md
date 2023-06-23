@@ -1,4 +1,4 @@
-# Greetings! I'm Rohan 🚀
+# Greetings! I'm Rohan
 
 I'm a passionate developer with a mission to simplify complex business processes. As the founder of **OrderStack**, I'm dedicated to developing and maintaining innovative automation systems that enable companies to streamline their operations.
 
