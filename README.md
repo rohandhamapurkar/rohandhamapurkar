@@ -4,7 +4,7 @@ I'm a passionate developer with a mission to simplify complex business processes
 
 ## What I'm working on 💻
 
-Currently, I'm expanding my skills in **Golang**, and I'm always on the lookout for exciting projects to collaborate on. If you're interested in discussing system architecture or have any NodeJS server framework suggestions, feel free to reach out!
+Currently, I'm workign with **Golang**, and I'm always on the lookout for exciting projects to collaborate on. If you're interested in discussing system architecture, feel free to reach out!
 
 ## Let's Connect 🤝
 
