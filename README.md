@@ -1,20 +1,62 @@
-# Greetings! I'm Rohan ![](https://komarev.com/ghpvc/?username=rohandhamapurkar&color=blueviolet)
+# 👋 Hello, I'm Rohan ![](https://komarev.com/ghpvc/?username=rohandhamapurkar&color=blueviolet)
 
-I'm a passionate developer with a mission to simplify complex business processes. As the founder of **OrderStack**, I'm dedicated to developing and maintaining innovative automation systems that enable companies to streamline their operations.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/rohandhamapurkar)
+[![Email](https://img.shields.io/badge/Email-rohan%40altersquare.io-red?style=flat-square&logo=gmail)](mailto:rohan@altersquare.io)
+[![Website](https://img.shields.io/badge/AlterSquare-Visit-green?style=flat-square&logo=google-chrome)](https://altersquare.io)
 
-## What I'm working on 💻
+## 💡 About Me
 
-Currently, I'm workign with **Golang**, and I'm always on the lookout for exciting projects to collaborate on. If you're interested in discussing system architecture, feel free to reach out!
+I'm a passionate software engineer and entrepreneur on a mission to simplify complex business processes. As the founder of **AlterSquare**, I develop innovative automation systems that help companies streamline their operations and focus on what truly matters.
 
-## Let's Connect 🤝
+## 🚀 Current Focus
 
-Let's connect and exchange ideas on all things related to **Go, NodeJS, MongoDB, System Architecture, and Database Design**. You can reach me at _rohan@orderstack.xyz_, and my preferred pronouns are **he/him**.
+- Building scalable microservices with **Golang**
+- Designing efficient database architectures
+- Optimizing business process automation
+- Exploring new technologies to enhance system performance
 
-## Fun Fact 🎬
+## 💻 Tech Stack
 
-In my free time, I love watching movies and TV shows. If you're curious about what I'm watching, check out my profile on [trakt.tv](https://www.trakt.tv).
+```
+Backend:     Golang, NodeJS, Express
+Databases:   MongoDB, PostgreSQL, Redis
+DevOps:      Docker, Kubernetes, CI/CD
+Architecture: Microservices, Event-Driven Systems
+```
+
+## 🔭 Projects
+
+- **[File Shredder](https://github.com/rohandhamapurkar/file-shredder)** - Secure file deletion utility
+- **[Zipper](https://github.com/rohandhamapurkar/zipper)** - File compression and archiving tool
+- **[Temp Editor](https://github.com/rohandhamapurkar/temp-editor)** - Lightweight temporary file editor
+- **[Group SSH Chat](https://github.com/rohandhamapurkar/group-ssh-chat)** - Collaborative SSH-based chat application
+- **[Stock Simulator](https://github.com/rohandhamapurkar/stock-simulator)** - Virtual stock trading platform
+- **[Enigma WASM](https://github.com/rohandhamapurkar/enigma-wasm)** - WebAssembly implementation of Enigma encryption
+- **[Enigma NodeJS](https://github.com/rohandhamapurkar/enigma-nodejs)** - NodeJS implementation of Enigma encryption
+
+## 📈 GitHub Stats
+
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohandhamapurkar&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohandhamapurkar&layout=compact&theme=tokyonight)
+
+## 🌱 Always Learning
+
+I'm constantly exploring new technologies and methodologies. Currently diving deeper into:
+- System design patterns
+- Performance optimization
+- Cloud infrastructure
+
+## 🤝 Let's Connect
+
+I'm always open to discussing **system architecture**, **database design**, and all things related to **Go** and **NodeJS**. Feel free to reach out at **rohan@altersquare.io** (he/him).
+
+## 🎬 Beyond Coding
+
+When I'm not coding, you'll find me:
+- Watching movies and TV shows ([Check my watchlist on Trakt.tv](https://www.trakt.tv))
 
 ---
 
-Thank you for stopping by, and I look forward to exploring new opportunities with you!
+💬 *"The best way to predict the future is to implement it."*
 
+Thanks for stopping by, and I look forward to collaborating with you!
