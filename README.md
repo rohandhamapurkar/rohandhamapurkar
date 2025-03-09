@@ -27,14 +27,14 @@ Architecture: Microservices, Event-Driven Systems, CQRS
 ## 🔭 Featured Projects
 - **[Paperless Clone NestJS](https://github.com/rohandhamapurkar/paperless-clone-nestjs)** - Document management system core service
 - **[Paperless Clone Job Microservice](https://github.com/rohandhamapurkar/paperless-clone-nestjs-job-microservice)** - Background processing service for document management
-- **[Mini CoWIN App](https://github.com/rohandhamapurkar/mini-cowin-app)** - Vaccination scheduling and management system
-- **[File Shredder](https://github.com/rohandhamapurkar/file-shredder)** - Secure file deletion utility mimicking wiping algorithms
-- **[Zipper](https://github.com/rohandhamapurkar/zipper)** - Advanced file compression and archiving tool with encryption capabilities
-- **[Offline Text Editor](https://github.com/rohandhamapurkar/offline-text-editor)** - Lightweight, secure temporary file editor for sensitive content
-- **[Group SSH Chat](https://github.com/rohandhamapurkar/group-ssh-chat)** - Secure, collaborative SSH-based chat application for developer teams
-- **[Stock Simulator](https://github.com/rohandhamapurkar/stock-simulator)** - Realistic virtual stock trading platform with market simulation
-- **[Enigma WASM](https://github.com/rohandhamapurkar/enigma-wasm)** - High-performance WebAssembly implementation of Enigma encryption
-- **[Enigma NodeJS](https://github.com/rohandhamapurkar/enigma-nodejs)** - NodeJS implementation of Enigma encryption for server-side applications
+- **[Mini CoWIN App](https://github.com/rohandhamapurkar/mini-cowin-app)** - Vaccination slots notifier app.
+- **[File Shredder](https://github.com/rohandhamapurkar/file-shredder)** - Secure file deletion utility mimicking wiping algorithms.
+- **[Zipper](https://github.com/rohandhamapurkar/zipper)** - file compression and archiving tool with encryption capabilities written in Rust.
+- **[Offline Text Editor](https://github.com/rohandhamapurkar/offline-text-editor)** - Lightweight, secure temporary file editor for sensitive content.
+- **[Group SSH Chat](https://github.com/rohandhamapurkar/group-ssh-chat)** - Secure, collaborative SSH-based chat in Golang.
+- **[Stock Simulator](https://github.com/rohandhamapurkar/stock-simulator)** - Market simulation in Golang.
+- **[Enigma WASM](https://github.com/rohandhamapurkar/enigma-wasm)** - WebAssembly implementation of Enigma encryption.
+- **[Enigma NodeJS](https://github.com/rohandhamapurkar/enigma-nodejs)** - NodeJS implementation of Enigma encryption.
 
 ## 📈 GitHub Stats
 
@@ -47,7 +47,6 @@ I believe in lifelong learning and constantly explore new technologies and metho
 - Advanced system design patterns
 - Distributed systems performance optimization
 - Serverless architectures
-- AI/ML integration in business applications
 
 ## 🤝 Let's Connect
 
