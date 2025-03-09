@@ -28,7 +28,7 @@ Architecture: Microservices, Event-Driven Systems, CQRS
 - **[Paperless Clone NestJS](https://github.com/rohandhamapurkar/paperless-clone-nestjs)** - Document management system core service
 - **[Paperless Clone Job Microservice](https://github.com/rohandhamapurkar/paperless-clone-nestjs-job-microservice)** - Background processing service for document management
 - **[Mini CoWIN App](https://github.com/rohandhamapurkar/mini-cowin-app)** - Vaccination scheduling and management system
-- **[File Shredder](https://github.com/rohandhamapurkar/file-shredder)** - Secure file deletion utility with military-grade wiping algorithms
+- **[File Shredder](https://github.com/rohandhamapurkar/file-shredder)** - Secure file deletion utility mimicking wiping algorithms
 - **[Zipper](https://github.com/rohandhamapurkar/zipper)** - Advanced file compression and archiving tool with encryption capabilities
 - **[Offline Text Editor](https://github.com/rohandhamapurkar/offline-text-editor)** - Lightweight, secure temporary file editor for sensitive content
 - **[Group SSH Chat](https://github.com/rohandhamapurkar/group-ssh-chat)** - Secure, collaborative SSH-based chat application for developer teams
