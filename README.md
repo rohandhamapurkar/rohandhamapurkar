@@ -25,18 +25,12 @@ Architecture: Microservices, Event-Driven Systems, CQRS
 ```
 
 ## 🔭 Featured Projects
-
-### Enterprise Solutions
 - **[Paperless Clone NestJS](https://github.com/rohandhamapurkar/paperless-clone-nestjs)** - Document management system core service
 - **[Paperless Clone Job Microservice](https://github.com/rohandhamapurkar/paperless-clone-nestjs-job-microservice)** - Background processing service for document management
 - **[Mini CoWIN App](https://github.com/rohandhamapurkar/mini-cowin-app)** - Vaccination scheduling and management system
-
-### Developer Tools
 - **[File Shredder](https://github.com/rohandhamapurkar/file-shredder)** - Secure file deletion utility with military-grade wiping algorithms
 - **[Zipper](https://github.com/rohandhamapurkar/zipper)** - Advanced file compression and archiving tool with encryption capabilities
 - **[Offline Text Editor](https://github.com/rohandhamapurkar/offline-text-editor)** - Lightweight, secure temporary file editor for sensitive content
-
-### Innovative Applications
 - **[Group SSH Chat](https://github.com/rohandhamapurkar/group-ssh-chat)** - Secure, collaborative SSH-based chat application for developer teams
 - **[Stock Simulator](https://github.com/rohandhamapurkar/stock-simulator)** - Realistic virtual stock trading platform with market simulation
 - **[Enigma WASM](https://github.com/rohandhamapurkar/enigma-wasm)** - High-performance WebAssembly implementation of Enigma encryption
