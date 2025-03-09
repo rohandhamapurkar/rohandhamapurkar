@@ -6,54 +6,65 @@
 
 ## 💡 About Me
 
-I'm a passionate software engineer and entrepreneur on a mission to simplify complex business processes. As the founder of **AlterSquare**, I develop innovative automation systems that help companies streamline their operations and focus on what truly matters.
+I'm a passionate software engineer and entrepreneur dedicated to simplifying complex business processes. As the founder of **AlterSquare**, I develop innovative automation systems that help companies streamline their operations and focus on what truly matters — growth and innovation.
 
 ## 🚀 Current Focus
 
-- Building scalable microservices with **Golang**
-- Designing efficient database architectures
-- Optimizing business process automation
-- Exploring new technologies to enhance system performance
+- Building high-performance, scalable microservices with **Golang**
+- Designing efficient, resilient database architectures
+- Creating intelligent business process automation solutions
+- Researching emerging technologies to enhance system performance and reliability
 
 ## 💻 Tech Stack
 
 ```
-Backend:     Golang, NodeJS, Express
-Databases:   MongoDB, PostgreSQL, Redis
-DevOps:      Docker, Kubernetes, CI/CD
-Architecture: Microservices, Event-Driven Systems
+Backend:      Golang, NodeJS, NestJS, Express
+Databases:    MongoDB, PostgreSQL, Redis, TimescaleDB
+DevOps:       Docker, Kubernetes, CI/CD, Terraform
+Architecture: Microservices, Event-Driven Systems, CQRS
 ```
 
-## 🔭 Projects
+## 🔭 Featured Projects
 
-- **[File Shredder](https://github.com/rohandhamapurkar/file-shredder)** - Secure file deletion utility
-- **[Zipper](https://github.com/rohandhamapurkar/zipper)** - File compression and archiving tool
-- **[Temp Editor](https://github.com/rohandhamapurkar/temp-editor)** - Lightweight temporary file editor
-- **[Group SSH Chat](https://github.com/rohandhamapurkar/group-ssh-chat)** - Collaborative SSH-based chat application
-- **[Stock Simulator](https://github.com/rohandhamapurkar/stock-simulator)** - Virtual stock trading platform
-- **[Enigma WASM](https://github.com/rohandhamapurkar/enigma-wasm)** - WebAssembly implementation of Enigma encryption
-- **[Enigma NodeJS](https://github.com/rohandhamapurkar/enigma-nodejs)** - NodeJS implementation of Enigma encryption
+### Enterprise Solutions
+- **[Paperless Clone NestJS](https://github.com/rohandhamapurkar/paperless-clone-nestjs)** - Document management system core service
+- **[Paperless Clone Job Microservice](https://github.com/rohandhamapurkar/paperless-clone-nestjs-job-microservice)** - Background processing service for document management
+- **[Mini CoWIN App](https://github.com/rohandhamapurkar/mini-cowin-app)** - Vaccination scheduling and management system
+
+### Developer Tools
+- **[File Shredder](https://github.com/rohandhamapurkar/file-shredder)** - Secure file deletion utility with military-grade wiping algorithms
+- **[Zipper](https://github.com/rohandhamapurkar/zipper)** - Advanced file compression and archiving tool with encryption capabilities
+- **[Offline Text Editor](https://github.com/rohandhamapurkar/offline-text-editor)** - Lightweight, secure temporary file editor for sensitive content
+
+### Innovative Applications
+- **[Group SSH Chat](https://github.com/rohandhamapurkar/group-ssh-chat)** - Secure, collaborative SSH-based chat application for developer teams
+- **[Stock Simulator](https://github.com/rohandhamapurkar/stock-simulator)** - Realistic virtual stock trading platform with market simulation
+- **[Enigma WASM](https://github.com/rohandhamapurkar/enigma-wasm)** - High-performance WebAssembly implementation of Enigma encryption
+- **[Enigma NodeJS](https://github.com/rohandhamapurkar/enigma-nodejs)** - NodeJS implementation of Enigma encryption for server-side applications
 
 ## 📈 GitHub Stats
 
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohandhamapurkar&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohandhamapurkar&layout=compact&theme=tokyonight)
 
-## 🌱 Always Learning
+## 🌱 Continuous Learning
 
-I'm constantly exploring new technologies and methodologies. Currently diving deeper into:
-- System design patterns
-- Performance optimization
-- Cloud infrastructure
+I believe in lifelong learning and constantly explore new technologies and methodologies. Currently diving deeper into:
+- Advanced system design patterns
+- Distributed systems performance optimization
+- Serverless architectures
+- AI/ML integration in business applications
 
 ## 🤝 Let's Connect
 
-I'm always open to discussing **system architecture**, **database design**, and all things related to **Go** and **NodeJS**. Feel free to reach out at **rohan@altersquare.io** (he/him).
+I'm always open to discussing **system architecture**, **database design**, and everything related to **Go**, **NodeJS**, and **microservices**. Whether you're looking for collaboration, consultation, or just a tech chat, feel free to reach out at **rohan@altersquare.io** (he/him).
 
 ## 🎬 Beyond Coding
 
-When I'm not coding, you'll find me:
+When I'm not immersed in code, you'll find me:
 - Watching movies and TV shows ([Check my watchlist on Trakt.tv](https://www.trakt.tv))
+- Exploring new technologies and startups
+- Contributing to open-source communities
 
 ---
 
