@@ -1,8 +1,10 @@
 # 👋 Hello, I'm Rohan ![](https://komarev.com/ghpvc/?username=rohandhamapurkar&color=blueviolet)
 
+[![Org Github](https://img.shields.io/badge/GitHub-AlterSquare-blue?style=flat-square&logo=github)](https://github.com/altersquare)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/rohandhamapurkar)
 [![Email](https://img.shields.io/badge/Email-rohan%40altersquare.io-red?style=flat-square&logo=gmail)](mailto:rohan@altersquare.io)
 [![Website](https://img.shields.io/badge/AlterSquare-Visit-green?style=flat-square&logo=google-chrome)](https://altersquare.io)
+
 
 ## 💡 About Me
 
