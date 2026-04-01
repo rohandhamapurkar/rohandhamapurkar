@@ -57,7 +57,7 @@ I'm always open to discussing **system architecture**, **database design**, and 
 ## 🎬 Beyond Coding
 
 When I'm not immersed in code, you'll find me:
-- Watching movies and TV shows ([Check my watchlist on Trakt.tv](https://app.trakt.tv/profile/rohandhamapurkar))
+- Watching movies and TV shows
 - Exploring new technologies and startups
 - Contributing to open-source (try to!)
 
