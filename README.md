@@ -38,11 +38,6 @@ Architecture: Microservices, Event-Driven Systems, CQRS
 - **[Enigma WASM](https://github.com/rohandhamapurkar/enigma-wasm)** - WebAssembly implementation of Enigma encryption.
 - **[Enigma NodeJS](https://github.com/rohandhamapurkar/enigma-nodejs)** - NodeJS implementation of Enigma encryption.
 
-## 📈 GitHub Stats
-
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohandhamapurkar&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohandhamapurkar&layout=compact&theme=tokyonight)
-
 ## 🌱 Continuous Learning
 
 I believe in lifelong learning and constantly explore new technologies and methodologies. Currently diving deeper into:
