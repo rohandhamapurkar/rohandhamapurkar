@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-rohan%40altersquare.io-red?style=flat-square&logo=gmail)](mailto:rohan@altersquare.io)
 [![Website](https://img.shields.io/badge/AlterSquare-Visit-green?style=flat-square&logo=google-chrome)](https://altersquare.io)
 
-> **Helping founders build & scale high-impact tech products.**
+> **Helping companies build & scale high-impact tech products.**
 
 **Co-Founder @ AlterSquare** · Backend & Systems Engineer · Mumbai, India 🇮🇳
 
