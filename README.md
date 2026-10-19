@@ -1,8 +1,8 @@
-[![Rohan Dhamapurkar — Platform engineer and AlterSquare co-founder](./assets/header.svg)](https://altersquare.io)
+[![Rohan Dhamapurkar — Software Engineer & AlterSquare Co-founder](./assets/header.svg)](https://altersquare.io)
 
 I build backend systems, platforms, and automation that make complex work easier.
 
-I'm Rohan, a platform engineer and co-founder of [AlterSquare](https://altersquare.io). My work spans application architecture, infrastructure, and the systems that connect them. I got into programming in my second year of engineering, and have kept building ever since.
+I'm Rohan, a software engineer, technical consultant, and co-founder of [AlterSquare](https://altersquare.io). My work spans backend systems, application architecture, cloud infrastructure, and automation. I got into programming in my second year of engineering, and have kept building ever since.
 
 I care about solving the actual business problem, designing for long-term evolution, and helping products scale.
 
