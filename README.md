@@ -2,7 +2,9 @@
 
 I build backend systems, platforms, and automation that make complex work easier.
 
-I'm Rohan, a platform engineer and co-founder of [AlterSquare](https://altersquare.io). My work spans application architecture, infrastructure, and the systems that connect them. I care about software that's straightforward to operate, maintain, and evolve.
+I'm Rohan, a platform engineer and co-founder of [AlterSquare](https://altersquare.io). My work spans application architecture, infrastructure, and the systems that connect them. I got into programming in my second year of engineering, and have kept building ever since.
+
+I care about solving the actual business problem, designing for long-term evolution, and helping products scale.
 
 ### `~/work`
 
