@@ -1,4 +1,4 @@
-[![Rohan Dhamapurkar — Software Engineer & AlterSquare Co-founder](./assets/header.svg)](https://altersquare.io)
+[![Rohan Dhamapurkar — Software Engineer & AlterSquare Co-founder](./assets/profile-header.svg)](https://altersquare.io)
 
 I build backend systems, platforms, and automation that make complex work easier.
 
